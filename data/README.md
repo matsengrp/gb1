@@ -5,7 +5,7 @@ Fitness and stability data on GB1 mutants pulled from 2 different studies:\
 * Measured fitness of all GB1 single and double mutants as binding affinity to
 IgG Fc.
 * Downloaded as supplementary excel file
-\
+
 **Nisthal et al. (2019)**
 * Constructed nearly every single mutant of GB1 and tested stability by measuring
 a denaturation gradient

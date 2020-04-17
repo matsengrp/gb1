@@ -1,6 +1,6 @@
 # GB1 Datasets  
-Fitness and stability data on GB1 mutants pulled from 2 different studies:\
-\
+Fitness and stability data on GB1 mutants pulled from 2 different studies:
+
 **Olson et al. (2014)**
 * Measured fitness of all GB1 single and double mutants as binding affinity to
 IgG Fc.
